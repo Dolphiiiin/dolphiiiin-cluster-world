@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html><!-- InstanceBegin template="/Templates/header.dwt" codeOutsideHTMLIsLocked="false" -->
+<html>
 	<head>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-173547943-2"></script>
@@ -99,90 +99,8 @@
 		</div>
 	</nav>
 
-	<!-- InstanceBeginEditable name="page main" -->
-		
-	<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url(images/img_bg_2.jpg);">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<div class="display-t">
-						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>About Me</h1>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-	
-	<div id="fh5co-about-section">
-		<div class="container">
-			<div class="about-content">
-				<div class="row animate-box">
-					<div class="col-md-6">
-						<img class="img-responsive" src="images/my-ico.jpg" alt="about">
-					</div>
-					<div class="col-md-6 col-md-pull-1">
-						<div class="desc">
-							<h3>Dolphiiiin</h3>
-							<p>主にclusterにてワールド制作などをしています</p>
-							<br>
-							<h3>趣味</h3>
-							<ul>
-								<li>cluster</li>
-								<li>VR</li>
-								<li>Unity</li>
-								<li>Blender</li>
-								<li>プログラミング</li>
-								<li>DTM (Studio One, Ablton Live)</li>
-								<li>DJ (Virtual DJ,Serato)</li>
-								<li>動画制作 (Premire Pro,After Effects,Aviutl)</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 fh5co-heading">
-					<h2>Dolphiiiinとcluster</h2>
-					<p>2019/2/1 ゆるくら会#10に参加したのをきっかけに、だんだんと沼にはまっていき、私生活のほとんどをclusterとともに過ごしているのではないかと感じています</p>
-					<p>そしてcluster creater kitがリリースされてからというもの、数々のワールドを作るクリエイターとしての活動を行っています</p>
-				</div>
-			</div>
-			<div class="row">
-				<h1 class="text-center">SNS</h1>
-				<div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeIn">
-					<div class="fh5co-staff">
-						<img src="images/Twitter_Logo_Blue.png" alt=""/>
-						<h3>Twitter</h3>
-						<br>
-						<strong class="role"><a href="https://twitter.com/Dolphiiiin_">@Dolphiiiin_</a></strong>
-						<p>普段の生活やclusterでの活動をリアルタイムに発信中</p>
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeIn">
-					<div class="fh5co-staff">
-						<img src="images/clusterlogo.png" alt="">
-						<h3>cluster</h3>
-						<br>
-						<strong class="role"><a href="https://cluster.mu/u/Dolphiiiin">@Dolphiiiin</a></strong>
-						<p>フレンド募集中!!</p>
-					</div>
-				</div>				<div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeIn">
-					<div class="fh5co-staff">
-						<img src="images/yt_icon_rgb.png" alt="" style="width: 20%;padding-top: 30px; padding-bottom: 30px">
-						<h3>Youtube</h3>
-						<br>
-						<strong class="role"><a href="https://www.youtube.com/channel/UC7Njq1xvUjinU56QmqaT2qw">Dolphin_</a></strong>
-						<p>ゲーム配信や、clusterワールド制作の風景を配信中！</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-		<!-- InstanceEndEditable -->	
+	<!-- TemplateBeginEditable name="page main" -->
+		<!-- TemplateEndEditable -->	
 	<footer id="fh5co-footer" role="contentinfo">
 		<div class="container">
 			<!--<div class="row row-pb-md">
@@ -259,4 +177,4 @@
 	<script src="js/main.js"></script>
 
 	</body>
-<!-- InstanceEnd --></html>
+</html>
